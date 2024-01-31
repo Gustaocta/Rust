@@ -1,0 +1,18 @@
+[package]
+name = "hcode_rust"
+version = "0.1.1"
+edition = "2021"
+authors = ["Gustavo Otacílio <gustavootaciliodossantos@gmail.com>"]
+description = "Biblioteca de funções"
+homepage = "https://github.com/Gustaocta/Rust.git"
+repository = "https://github.com/Gustaocta/Rust.git"
+documentaion = "https://github.com/Gustaocta/Rust.git"
+license = "MIT"
+
+keywords = ["hcode", "curso", "rust"]
+categories = ["functions"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
