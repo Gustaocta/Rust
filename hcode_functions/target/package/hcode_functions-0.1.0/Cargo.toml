@@ -19,7 +19,6 @@ homepage = "https://github.com/Gustaocta/Rust.git"
 keywords = [
     "hcode",
     "curso",
-    "funções",
     "rust",
 ]
 categories = ["functions"]
