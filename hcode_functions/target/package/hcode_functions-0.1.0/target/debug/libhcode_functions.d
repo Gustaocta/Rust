@@ -1,0 +1,1 @@
+C:\Users\gustavo.otacilio\Rust\hcode_functions\target\package\hcode_functions-0.1.0\target\debug\libhcode_functions.rlib: C:\Users\gustavo.otacilio\Rust\hcode_functions\target\package\hcode_functions-0.1.0\src\lib.rs
