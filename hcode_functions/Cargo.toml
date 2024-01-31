@@ -1,5 +1,5 @@
 [package]
-name = "hcode_functions"
+name = "hcode_rust"
 version = "0.1.0"
 edition = "2021"
 authors = ["Gustavo Otacílio <gustavootaciliodossantos@gmail.com>"]
